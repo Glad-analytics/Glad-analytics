@@ -41,9 +41,8 @@ Welcome to my GitHub! I'm passionate about using data, code, and creativity to s
 ## 🤝 Let's Connect
 
 I'm always open to collaboration or just a good tech conversation!  
-📧 [your.email@example.com]  
-🌐 [your personal website or LinkedIn]  
-🐦 [your Twitter/X handle, if any]  
+📧 [gladnessmelford@gmail.com]  
+🌐 [Linkedin Gladness Ogoun]    
 
 ---
 
