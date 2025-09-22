@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Ogoun Gladness - Machine Learning/Deep Learning Expert | AI
-
+## Hi there 👋 I'm Ogoun Gladness -AI & Data Science Researcher | Machine Learning & Deep Learning Practitioner
 Welcome to my GitHub! I'm passionate about using data, code, and creativity to solve real-world problems and build useful tools.
 ## 🧑‍💻 About Me
 
@@ -9,39 +8,56 @@ Welcome to my GitHub! I'm passionate about using data, code, and creativity to s
 - 🛠️ Strong believer in using tech for good and driving meaningful impact
 - 🕹 Fun fact: I enjoy football, music, puzzles, traveling 
 
-## 🚀 Tech Stack
+## 🔧 Technical Skills
 
-**Languages:** Python, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**ML / DL:** scikit-learn, TensorFlow, PyTorch, Keras  
-**NLP:** NLTK, spaCy, Hugging Face Transformers  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code  
-**Cloud & DevOps:** Google Colab, AWS (basic), Docker (learning)  
-**Databases:** SQLite, PostgreSQL, MongoDB (basic)
+### Programming & Data Handling
+- **Python (expert)** | SQL | Git/GitHub | Jupyter Notebook | VS Code  
+
+### Machine Learning & Statistics
+- Scikit-learn, XGBoost, Random Forests, Decision Trees, Logistic Regression, Naive Bayes  
+- Clustering (K-means, Hierarchical), Association Rules (Apriori)  
+- Time Series Forecasting: SARIMA, STL Decomposition  
+
+### Deep Learning
+- TensorFlow, Keras, PyTorch  
+- Autoencoders (Anomaly Detection), Convolutional Neural Networks (CNNs), Multilayer Perceptrons (MLPs), LSTMs (conceptual)  
+
+### Natural Language Processing (NLP)
+- NLTK, spaCy, Hugging Face Transformers (BERT)  
+- TF-IDF, Word Embeddings  
+
+### Data Visualization & Analytics
+- Pandas, NumPy, Matplotlib, Seaborn  
+- t-SNE, UMAP, ROC/PR Curves, Word Clouds, Network Analysis (NetworkX/GraphX)  
+
+### Databases & Cloud Tools
+- SQLite, PostgreSQL, MongoDB (basic)  
+- Google Colab, AWS (basic), Docker (learning)
 
 ## 🏗️ Projects
 
-| Project Name              | Role              | Highlights                                                                 |
+| Project Name              | Focus              | Highlights                                                                 |
 |---------------------------|-------------------|---------------------------------------------------------------------------|
-|**Mock Census Data Analysis** | Data Analyst | Cleaned and analyzed simulated 1881 UK-style census data using Pandas and Seaborn. Explored demographics, religious affiliation, and occupancy to support urban planning recommendations.|
-|**Video Game Sales Forecasting**| ML Practitioner | Built regression models and Random Forests to predict game sales. Used k-Means clustering and ANN tuning to reveal patterns across genres, platforms, and regions.|
-|**Emergency Vehicle Image Classifier** |Computer Vision Engineer| Developed a CNN to classify emergency vs. non-emergency vehicles. Tuned dropout layers, filter sizes, and batch sizes for optimal performance.|
-| **Characterisation of Gully Erosion in Calabar Municipal (Nyahasang)** | GIS Analyst/ Researcher        | Used spatial analysis tools (ArcGIS/QGIS) to map, classify, and assess the severity of gully erosion. Investigated contributing environmental factors and proposed mitigation strategies.|
-| **NLP Sentiment Analyzer** | ML / NLP Developer | Deep learning + traditional ML on IMDB reviews using TF-IDF, CNN, BERT     |
-| **Road Safety Analytics**   | Data Scientist      | UK accident data project using SQL + clustering + forecasting              |
-| **GitHub Portfolio**       | Full-stack Learner | Personal portfolio repository to showcase projects, skills, and learning journey using Markdown and GitHub Pages.|
+| **Anomaly Detection in Seismic Data (MSc Research Project)** | AI Engineer | Built an autoencoder + Random Forest pipeline on Raspberry Shake seismic data to detect anomalies. Achieved ROC-AUC ~0.72 (F1=0.79). Applied t-SNE and feature importance to interpret latent space. |
+| **NLP Sentiment Analyzer** | ML / NLP Developer | Implemented two traditional ML models (Logistic Regression, Naive Bayes) and two deep learning models (MLP, CNN, BERT) on IMDB reviews. Evaluated with ROC-AUC and PR-AUC curves. |
+| **Road Safety Analytics** | Data Scientist | Analyzed UK accident data using SQL, Apriori, clustering, and SARIMA forecasting. Identified time-based accident patterns and vehicle–pedestrian trends.|
+| **Emergency Vehicle Image Classifier** | Computer Vision Engineer | Developed and tuned a CNN to classify emergency vs. non-emergency vehicles. Optimized dropout, filters, and batch sizes.|
+| **Video Game Sales Forecasting** | ML Practitioner | Built regression models and Random Forests to predict sales. Used k-Means clustering and ANN tuning to reveal trends across platforms/regions. |
+| **Mock Census Data Analysis** | Data Analyst | Cleaned and analyzed simulated 1881 UK census data with Pandas & Seaborn. Produced demographic and housing insights for urban planning. |
+| **Characterisation of Gully Erosion in Calabar Municipal (Nyahasang)** | GIS Researcher | Used ArcGIS/QGIS to map, classify, and assess erosion severity. Investigated contributing environmental factors and proposed mitigation strategies. |
+| **GitHub Portfolio** | Full-stack Learner | Personal repository showcasing projects, skills, and reports using Markdown and GitHub Pages. |
 
-## 📚 Currently Learning
+## 🚀 Currently Exploring
 
-- Deepening skills in transfer learning & NLP (especially BERT, GPT models)
-- Self-supervised learning and explainability (XAI)
-- Deployment tools: Streamlit, Docker, Flask APIs
-- Time series forecasting & geospatial analytics
-
+- Transfer learning & NLP (BERT, GPT-based models)  
+- Explainable AI (XAI) & model interpretability  
+- Deployment & scaling (Docker, Streamlit, Flask APIs)  
+- Time-series forecasting & geospatial analytics
+  
 ## 🤝 Let's Connect
 
 I'm always open to collaboration or just a good tech conversation!  
-📧 [gladnessmelford@gmail.com]  
+📧 [gladnessogoun@gmail.com]  
 🌐 [Linkedin Gladness Ogoun]    
 
 ---
