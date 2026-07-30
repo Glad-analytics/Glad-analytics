@@ -2,7 +2,7 @@
 Welcome to my GitHub! I'm passionate about using data, code, and creativity to solve real-world problems and build useful tools.
 ## 🧑‍💻 About Me
 
-- 🎓 MSc candidate in Artificial Intelligence & Data Science @ University of Hull (2024–2025)
+- 🎓 MSc Artificial Intelligence & Data Science University of Hull (2024–2025)
 - 🔬 Research : Anomaly detection in global seismology data, developing ML models to flag unusual seismic patterns and understand shifts in human activity over time.
 - 🔍 Interests: Machine Learning, Data Analytics, NLP, Computer Vision
 - 🛠️ Strong believer in using tech for good and driving meaningful impact
@@ -11,10 +11,13 @@ Welcome to my GitHub! I'm passionate about using data, code, and creativity to s
 ## 🔧 Technical Skills
 
 ### Programming & Data Handling
-- **Python (expert)** | SQL | Git/GitHub | Jupyter Notebook | VS Code  
+- **Python (expert)** | SQL | Git/GitHub | Jupyter Notebook | VS Code
+
+### Analytics Engineering and Data Management
+- DuckDB, dbt, ELT pipelines, staging and intermediate models, dimensional modelling, testing, documentation
 
 ### Machine Learning & Statistics
-- Scikit-learn, XGBoost, Random Forests, Decision Trees, Logistic Regression, Naive Bayes  
+- Scikit-learn, Tensor Flow, XGBoost, Random Forests, Decision Trees, Logistic Regression, Naive Bayes  
 - Clustering (K-means, Hierarchical), Association Rules (Apriori)  
 - Time Series Forecasting: SARIMA, STL Decomposition  
 
@@ -31,8 +34,8 @@ Welcome to my GitHub! I'm passionate about using data, code, and creativity to s
 - t-SNE, UMAP, ROC/PR Curves, Word Clouds, Network Analysis (NetworkX/GraphX)  
 
 ### Databases & Cloud Tools
-- SQLite, PostgreSQL, MongoDB (basic)  
-- Google Colab, AWS (basic), Docker (learning)
+- SQLite, PostgreSQL, MongoDB  
+- Google Colab, AWS, Docker, Version-controlled development
 
 ## 🏗️ Projects
 
